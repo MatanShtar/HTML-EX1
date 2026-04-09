@@ -1,0 +1,38 @@
+*::selection{
+    color: chartreuse;
+    background-color: rebeccapurple;
+}
+
+body{
+    background-color: hsl(314, 46%, 66%) ;
+}
+
+h1{
+    color:lightgray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 72px;
+}
+
+a{
+    color: #4682B4;
+    text-decoration: underline;
+}
+a:hover{
+    color: yellow;
+}
+a:focus{
+    color:blue;
+}
+
+ol{
+    color: orange;
+    list-style-type: upper-roman;
+    font-size: 30px;
+    margin-left: 0;
+    padding-left: 1.5em;
+    list-style-position: inside;
+}
+h3{
+    color: lightblue;
+    font-size: 40px;
+}

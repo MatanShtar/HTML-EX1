@@ -1,0 +1,32 @@
+*::selection{
+    color: chartreuse;
+    background-color: rebeccapurple;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #4A444B ;
+}
+
+h1{
+    color:lightgray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 72px;
+}
+
+a{
+    color: #4682B4;
+    text-decoration: underline;
+}
+a:hover{
+    color: yellow;
+}
+a:focus{
+    color:blue;
+}
+
+p{
+    color: rgb(195, 53, 2);
+}
